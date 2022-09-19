@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlanDeStraya
 - 👀 I’m interested in Effective Altruism via programming.
-- 🌱 I’m currently learning JavaScript and basic responsive web development.
+- 🌱 I’m currently learning React and Node.js to develop full stack web applications.
 - 💞️ I’m willing to collaborate anywhere help is needed and my skills can be of use.
 - 📫 How to reach me 
 
